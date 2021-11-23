@@ -8,7 +8,10 @@
   "dependencies": {
     "next": "latest",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-doc-viewer": "^0.1.5",
+    "react-dom": "^17.0.2",
+    "react-file-viewer": "^1.2.1",
+    "react-native-file-viewer": "^2.1.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
